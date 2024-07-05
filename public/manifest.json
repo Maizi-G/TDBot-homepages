@@ -1,0 +1,8 @@
+{
+    "name": "TD Bot",
+    "short_name": "TD Bot",
+    
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
