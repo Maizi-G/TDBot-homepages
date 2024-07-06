@@ -16,7 +16,7 @@ export default {
 
 
         footer: {
-            message: '以 MIT 许可协议发布',
+            message: '以 GPL-3.0 许可协议发布',
             copyright: '版权所有 © 2021-2024 TD科技中心'
         },
     }
